@@ -22,8 +22,7 @@ headers = {
     'Sec-GPC': '1',
     'Accept-Language': 'ar-EG,ar;q=0.5',
     'Referer': 'http://eslamhacker0.infinityfreeapp.com/Decrypted.php',
-    # 'Accept-Encoding': 'gzip, deflate',
-    # 'Cookie': '__test=6c444b06c5080ab3ce337ae675806c10',
+    'Accept-Encoding': 'gzip, deflate',
 }
 
 data = {
